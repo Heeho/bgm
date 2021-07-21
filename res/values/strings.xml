@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bgm</string>
+
+    <string name="aboutB">About</string>
+    <string name="about">
+        <b>bgm</b>
+        \r\n\r\n
+        persistent BGM example
+    </string>
+
+    <string name="optionsB">Options</string>
+    <string name="fx">FX</string>
+    <string name="bgm">BGM</string>
+</resources>

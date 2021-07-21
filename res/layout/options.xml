@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:columnCount="3"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <TextView android:text="@string/fx"/>
+    <CheckBox android:id="@+id/fxCB"/>
+    <SeekBar
+        android:id="@+id/fxSB"
+        android:layout_gravity="fill"/>
+
+    <TextView android:text="@string/bgm"/>
+    <CheckBox android:id="@+id/bgmCB"/>
+    <SeekBar
+        android:id="@+id/bgmSB"
+        android:layout_gravity="fill"/>
+
+</GridLayout>

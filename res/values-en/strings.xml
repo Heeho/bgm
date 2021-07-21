@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bgm</string>
+
+    <string name="optionsB">Настройки</string>
+    <string name="aboutB">О программе</string>
+    <string name="about">
+        <b>bgm</b>
+        \r\n\r\n
+        пример фоновой музыки с изменением положения экрана
+    </string>
+
+    <string name="fx">Звуки</string>
+    <string name="bgm">Музыка</string>
+</resources>

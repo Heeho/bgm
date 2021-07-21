@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:columnCount="3"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/aboutB"
+        android:text="@string/aboutB"
+        android:onClick="gotoActivity"
+        android:layout_gravity="fill"
+        android:layout_columnSpan="3"/>
+    <Button
+        android:id="@+id/optionsB"
+        android:text="@string/optionsB"
+        android:onClick="gotoActivity"
+        android:layout_gravity="fill"
+        android:layout_columnSpan="3"/>
+</GridLayout>
