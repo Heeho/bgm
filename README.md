@@ -1,1 +1,1 @@
-Persistent BGM example
+Persistent BGM example.
